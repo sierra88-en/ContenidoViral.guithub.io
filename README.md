@@ -2,7 +2,7 @@
 <html lang="es">
 <head>
     <meta charset="UTF-8">
-    <title> Los 10 Tipos de Contenido Más Viral en 2025 </title>
+     Los 10 Tipos de Contenido Más Viral en 2025 
     <meta name="description" content="Aprende a crear contenido que genera tráfico real con ejemplos prácticos.">
 </head>
 <body>
