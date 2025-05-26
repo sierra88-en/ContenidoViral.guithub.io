@@ -1,0 +1,29 @@
+
+---
+
+### 🚀 **Pasos para Lanzar el Blog al Aire**:  
+1. **Elige tu stack técnico**:  
+   - Si quieres algo **sencillo**: Usa un generador estático como [Hugo](https://gohugo.io/) o [Jekyll](https://jekyllrb.com/) (se integra directo con GitHub Pages).  
+   - Si prefieres **más control**: HTML/CSS/JS vanilla + deploy en Netlify.  
+
+2. **Crea el repositorio en GitHub**:  
+   - Sube tu código y configura el `README.md`.  
+
+3. **Compra dominio (opcional pero recomendado)**:  
+   - Usa [Namecheap](https://www.namecheap.com/) o [Google Domains](https://domains.google/).  
+   - Conéctalo a GitHub Pages/Netlify (guías [aquí](https://docs.github.com/es/pages/configuring-a-custom-domain-for-your-github-pages-site)).  
+
+4. **Publica tu primer artículo**:  
+   - Elige una de las 10 ideas y escribe un borrador en Markdown/HTML.  
+
+5. **Promociona**:  
+   - Comparte en redes sociales + comunidades como Reddit o IndieHackers.  
+
+---
+
+### 🔌 **Extras Útiles**:  
+- **Plantillas gratis**: [HTML5 UP](https://html5up.net/), [Jekyll Themes](https://jekyllthemes.io/).  
+- **Herramientas SEO**: [Ubersuggest](https://neilpatel.com/ubersuggest/), [SurferSEO](https://surferseo.com/).  
+- **Imágenes gratis**: [Unsplash](https://unsplash.com/), [Pexels](https://www.pexels.com/).  
+
+¿Necesitas ayuda con algún paso en específico? ¡Dime y te guío con detalles! ✨

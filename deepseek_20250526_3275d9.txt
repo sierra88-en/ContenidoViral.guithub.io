@@ -1,0 +1,6 @@
+/  
+├── index.html          # Página principal  
+├── /blog               # Artículos en HTML/Markdown  
+├── /assets             # CSS, imágenes, JS  
+├── README.md           # Este archivo  
+└── LICENSE             # Licencia (MIT, CC, etc.)  
